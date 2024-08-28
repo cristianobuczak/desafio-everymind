@@ -10,5 +10,6 @@ Os requisitos necessários são:
 • Preço do produto;
 
 Página na web da solução: https://desafio-everymind.vercel.app/
+
 Nessa página o usuário deverá ter a habilidade de exibir os produtos em uma tabela, criar, editar e deletar produtos que estão salvos na base.
 • Todas as ações na página deverão refletir no banco de dados;
